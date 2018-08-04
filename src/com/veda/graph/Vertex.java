@@ -1,3 +1,6 @@
+/**
+ * @Author Sesha Nandyal
+ */
 package com.veda.graph;
 
 public class Vertex {
